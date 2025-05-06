@@ -37,7 +37,7 @@ Con el lanzamiento de **Java 21**, se mantiene como una herramienta clave para e
 
 ## Ejercicios Módulo 1: Introducción a ArrayList
 
-1. Creación de un ArrayList:
+1. Creación de un ArrayList:  EJERCICIO SOLUCIONADO
     - Crea un ArrayList de tipo String.
     - Imprime el ArrayList recién creado.
 
