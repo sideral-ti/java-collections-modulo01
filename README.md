@@ -84,3 +84,12 @@ Con el lanzamiento de **Java 21**, se mantiene como una herramienta clave para e
 12. Conversión de ArrayList a Array:
     - Convierte un ArrayList a un array tradicional.
     - Imprime los elementos del array resultante.
+
+
+# Comandos de Git que vamos a utilizar
+
+```git
+git add .
+git commit -m "COMMENT"
+git push origin main  ||  git push
+```
